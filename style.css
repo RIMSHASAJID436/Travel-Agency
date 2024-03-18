@@ -1,0 +1,95 @@
+nav img{
+    width: 150px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.nav-item{
+    margin-top: 40px;
+}
+
+h1{
+    font-family: serif;
+    color: #00abf0;
+    text-align: center;
+}
+h2{
+    font-family: serif;
+    color: #00abf0;
+    text-align: center;
+}
+h1:hover,
+h2:hover,
+h3:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+img{
+    padding: 20px;
+}
+h3{
+    font-family: serif;
+    color: #00abf0;  
+    font-size: x-large;
+    padding-left: 22px;
+}
+
+p{
+    padding: 20px;
+   text-align: justify;
+}
+nav a{
+    text-decoration: none;
+    font-size: larger;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+nav{
+    display: flex;
+    
+}
+nav:hover{
+    cursor: pointer;
+}
+
+#top{
+    margin-left: 600px;
+    margin-top: 50px;
+}
+body:hover{
+    cursor: pointer;
+}
+.contact{
+    display: flex;
+    margin-left: 20px;
+}
+.info{
+    display: flex;
+}
+.info img{
+    width: 130px;
+    height: 140px;
+}
+.inf0 h3{
+    margin-top: 40px;
+   position: absolute;
+}
+.connect i{
+    font-size: xx-large;
+
+}
+.fa-facebook{
+    color: rgb(92, 92, 245);
+    margin-left: 20px;
+}
+.fa-instagram{
+    margin-left: 10px;
+    color: rgb(254, 103, 103);
+}
+.fa-youtube{
+color: rgb(254, 103, 103);
+
+}
+.fa-twitter{
+    color: rgb(102, 196, 233);
+    margin-left: 10px;
+}
